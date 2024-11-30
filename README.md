@@ -2,7 +2,7 @@
 [stars-url]: https://github.com/DayuHuu/Awesome-Single-Cell-Clustering/stargazers
 [fork-img]: https://img.shields.io/github/forks/DayuHuu/Awesome-Single-Cell-Clustering?color=lightblue&label=fork
 [fork-url]: https://github.com/DayuHuu/Awesome-Single-Cell-Clustering/network/members
-[AKGR-url]: https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning
+[AKGR-url]: https://github.com/DayuHuu/Awesome-Single-Cell-Clustering
 
 # Awesome-Single-Cell-Clustering
 ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering works, including papers, codes and datasets :fire:. Any problems, please contact hzauhdy@gmail.com or w13840532920@163.com. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository.:heart:
@@ -11,7 +11,7 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 [![GitHub forks][fork-img]][fork-url]
 
 <div  align="center">    
-    <img src="./logo_new.png" width=100% />
+    <img src="./flow.png" width=100% />
 </div>
 
 
