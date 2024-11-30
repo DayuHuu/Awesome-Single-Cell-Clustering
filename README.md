@@ -1,5 +1,18 @@
+[stars-img]: https://img.shields.io/github/stars/DayuHuu/Awesome-Single-Cell-Clustering?color=yellow
+[stars-url]: https://github.com/DayuHuu/Awesome-Single-Cell-Clustering/stargazers
+[fork-img]: https://img.shields.io/github/forks/DayuHuu/Awesome-Single-Cell-Clustering?color=lightblue&label=fork
+[fork-url]: https://github.com/DayuHuu/Awesome-Single-Cell-Clustering/network/members
+[AKGR-url]: https://github.com/LIANGKE23/Awesome-Knowledge-Graph-Reasoning
+
 # Awesome-Single-Cell-Clustering
-ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering works, including papers, codes and datasets
+ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering works, including papers, codes and datasets :fire:. Any problems, please contact hzauhdy@gmail.com or w13840532920@163.com. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository.:heart:
+
+[![GitHub stars][stars-img]][stars-url]
+[![GitHub forks][fork-img]][fork-url]
+
+<div  align="center">    
+    <img src="./logo_new.png" width=100% />
+</div>
 
 
 ### Embedded Single-Cell Deep Clustering
