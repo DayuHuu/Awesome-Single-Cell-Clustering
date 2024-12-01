@@ -48,4 +48,15 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | 2019 | **Impact of similarity metrics on single-cell RNA-seq data clustering** | BIB | [link](https://academic.oup.com/bib/article/20/6/2316/5077112)| - |
 | 2021 | **Deep learning-based clustering approaches for bioinformatics** | BIB | [link](https://academic.oup.com/bib/article/22/1/393/5721075)| - |
 | 2016 | **Single-Channel Multi-Speaker Separation using Deep Clustering** | BIB | [link](http://arxiv.org/abs/1607.02173)| - |
+| 2022 | **deep clustering of single-cell RNA-seq via convolutional autoencoder embedding and soft K-means（ScCAEs）** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbab321/6362111)| - |
+| 2024 | **A Gene-Graph-Guided Selective Deep Clustering Method for Single Cell RNA-seq Data(G3DC)** | BIB | [link](https://ieeexplore.ieee.org/document/10654682/)| - |
+| 2023 | **deep single-cell expression reconstruction for improved cell clustering and cell subtype and state detection（DISCERN）**| BIB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03049-x)| - |
+| 2022 | **Deep clustering of small molecules at large-scale via variational autoencoder embedding and K-means**| BIB | [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04667-1)| - |
+| 2020 | **variational auto-encoders for single-cell gene expression data(scVAE)** | BIB | [link](https://academic.oup.com/bioinformatics/article/36/16/4415/5838187)| - |
+| 2023 | **Deep enhanced constraint clustering based on contrastive learning for scRNA-seq data** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbad222/7197084)| - |
+| 2020 | **Dimension Reduction and Clustering Models for Single-Cell RNA Sequencing Data: A Comparative Study** | BIB | [link](https://www.mdpi.com/1422-0067/21/6/2181)| - |
+| 2024 | **Dimension reduction, cell clustering, and cell–cell communication inference for single-cell transcriptomics with DcjComm** | BIB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03385-6)| - |
+| 2021 | **Contrastive self-supervised clustering of scRNA-seq data** | BIB | [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04210-8)| - |
+| 2020 | **Deep soft K-means clustering with self-training for single-cell RNA sequence data** | BIB | [link](https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqaa039/5843803)| - |
+| 2020 | **Single-Cell Transcriptome Data Clustering via Multinomial Modeling and Adaptive Fuzzy K-Means Algorithm** | BIB | [link](https://www.frontiersin.org/article/10.3389/fgene.2020.00295/full)| - |
 
