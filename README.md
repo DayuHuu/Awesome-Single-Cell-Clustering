@@ -71,5 +71,13 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| 2024 | **Recover then aggregate: unified cross-modal deep clustering with global structural information for single-cell data** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbae485/7797297) | 
+| 2024 | **[scTPC] scTPC: a novel semisupervised deep clustering model for scRNA-seq data** | BIB | [link](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btae293/7659796) | 
+| 2024 | **[scDAC] scDAC: deep adaptive clustering of single-cell transcriptomic data with coupled autoencoder and Dirichlet process mixture model** | BIB | [link](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btae198/7644284) |
+| 2023 | **Ensemble deep learning of embeddings for clustering multimodal single-cell omics data** | BIB | [link](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btad382/7197799) | 
+| 2023 | **Denoising adaptive deep clustering with self-attention mechanism on single-cell sequencing data** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbad021/7008799) |
+| 2023 | **[scBGEDA] scBGEDA: deep single-cell clustering analysis via a dual denoising autoencoder with bipartite graph ensemble clustering** | BIB | [link](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btad075/7025496) |
+| 2022 | **[scDSC] scDSC: Deep structural clustering for single-cell RNA-seq data jointly through autoencoder and graph neural network** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbac018/6529282) |
 | 2022 | **[scMDC] Clustering of single-cell multi-omics data with a multimodal deep learning method**  | NC | [link](https://www.nature.com/articles/s41467-022-35031-9) | [link](https://github.com/xianglin226/scMDC) | 
-
+| 2021 | **Mixture-of-Experts Variational Autoencoder for clustering and generating from similarity-based representations on single cell data** | CB | [link](https://dx.plos.org/10.1371/journal.pcbi.1009086) |
+| 2021 | **[scDCC] scDCC:Model-based deep embedding for constrained clustering analysis of single cell RNA-seq data**  | N | [link](https://www.nature.com/articles/s41467-021-22008-3) | 
