@@ -21,7 +21,7 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2022 | **A parameter-free deep embedded clustering method for single-cell RNA-seq data (ADClust)**  | BIB | [link](https://academic.oup.com/bib/article/23/5/bbac172/6582003?login=false) | [link](https://github.com/biomed-AI/ADClust) | 
 | 2024 | **Deep Masked Graph Node Clustering （DMGC）**  | TCSS | [link](https://ieeexplore.ieee.org/abstract/document/10550181) | - |
-
+| 2018 | **Clustering single cells: a review of approaches on high-and low-depth single-cell RNA-seq data| BIB | [link](https://academic.oup.com/bfg/article/17/4/240/4728639) |
 
 
 
