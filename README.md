@@ -59,23 +59,16 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | 2020 | **Deep soft K-means clustering with self-training for single-cell RNA sequence data** | BIB | [link](https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqaa039/5843803)| - |
 | 2020 | **Single-Cell Transcriptome Data Clustering via Multinomial Modeling and Adaptive Fuzzy K-Means Algorithm** | BIB | [link](https://www.frontiersin.org/article/10.3389/fgene.2020.00295/full)| - |
 
-### Embedded Single-Cell Deep Clustering
+### Topological Single-Cell Deep Clustering
 
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2022 | **[ADClust] A parameter-free deep embedded clustering method for single-cell RNA-seq data**  | BIB | [link](https://academic.oup.com/bib/article/23/5/bbac172/6582003?login=false) | [link](https://github.com/biomed-AI/ADClust) | 
-| 2018 | **Clustering single cells: a review of approaches on high-and low-depth single-cell RNA-seq data**| BIB | [link](https://academic.oup.com/bfg/article/17/4/240/4728639) | - |
-| 2020 | **Robust unsupervised dimensionality reduction based on feature clustering for single-cell imaging data** | BIB | [link](https://linkinghub.elsevier.com/retrieve/pii/S1568494620303616) | - |
-| 2020 | **Dimension Reduction and Clustering Models for Single-Cell RNA Sequencing Data: A Comparative Study** | BIB | [link](https://www.mdpi.com/1422-0067/21/6/2181) | - |
-| 2022 | **comparison of deep learning-based pre-processing  and clustering approaches for single-cell RNA  sequencing data** | BIB | [link]
+| 2022 | **[scGAC] scGAC: a graph attentional architecture for clustering single-cell RNA-seq data**  | BIO | [link](https://academic.oup.com/bioinformatics/article/38/8/2187/6530275?login=false) | [link](https://github.com/Joye9285/scGAC) | 
 
-### Embedded Single-Cell Deep Clustering
+
+### Multi-Modal Single-Cell Deep Clustering
 
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2022 | **[ADClust] A parameter-free deep embedded clustering method for single-cell RNA-seq data**  | BIB | [link](https://academic.oup.com/bib/article/23/5/bbac172/6582003?login=false) | [link](https://github.com/biomed-AI/ADClust) | 
-| 2018 | **Clustering single cells: a review of approaches on high-and low-depth single-cell RNA-seq data**| BIB | [link](https://academic.oup.com/bfg/article/17/4/240/4728639) | - |
-| 2020 | **Robust unsupervised dimensionality reduction based on feature clustering for single-cell imaging data** | BIB | [link](https://linkinghub.elsevier.com/retrieve/pii/S1568494620303616) | - |
-| 2020 | **Dimension Reduction and Clustering Models for Single-Cell RNA Sequencing Data: A Comparative Study** | BIB | [link](https://www.mdpi.com/1422-0067/21/6/2181) | - |
-| 2022 | **comparison of deep learning-based pre-processing  and clustering approaches for single-cell RNA  sequencing data** | BIB | [link]
+| 2022 | **[scMDC] Clustering of single-cell multi-omics data with a multimodal deep learning method**  | NC | [link](https://www.nature.com/articles/s41467-022-35031-9) | [link](https://github.com/xianglin226/scMDC) | 
 
