@@ -39,7 +39,7 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | 2024 | **Attention Enhanced Structural Deep Clustering for Single-cell RNA-seq Data(scASDC)** | BIB | [link](http://arxiv.org/abs/2408.05258)| - |
 | 2018 | **Clustering single cells: a review of approaches on high-and low-depth single-cell RNA-seq data** | BIB | [link](https://academic.oup.com/bfg/article/17/4/240/4728639)| - |
 | 2020 | **Pathway-based deep clustering for molecular subtyping of cancer**| BIB | [link](https://linkinghub.elsevier.com/retrieve/pii/S1046202319300489)| - |
-| 2024 | **enhancing single-cell RNA-seq clustering with deep fusion networks(scDFN)** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbae486/7811489）| - |
+| 2024 | **enhancing single-cell RNA-seq clustering with deep fusion networks(scDFN)** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbae486/7811489)| - |
 | 2023 | **A critical assessment of clustering algorithms to improve cell clustering and identification in single-cell transcriptome study** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbad497/7505072)| - |
 | 2020 | **Deep learning enables accurate clustering with batch effect removal in single-cell RNA-seq analysis** | BIB | [link](https://www.nature.com/articles/s41467-020-15851-3)| - |
 | 2023 | **Attention-based deep clustering method for scRNA-seq cell type identification** | BIB | [link](https://dx.plos.org/10.1371/journal.pcbi.1011641)| - |
