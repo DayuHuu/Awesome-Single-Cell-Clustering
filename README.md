@@ -60,12 +60,12 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024 | **[scDFN] scDFN: enhancing single-cell RNA-seq clustering with deep fusion networks** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbae486/7811489) |
 | 2024 | **[scGeom] scGeom: Topological and geometric analysis of cell states in single-cell transcriptomic data** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbae176/7648264) |
-| 2023 | **Toward Convex Manifolds: A Geometric Perspective for Deep Graph Clustering of Single-cell RNA-seq Data** | IJVAI | [link](https://www.ijcai.org/proceedings/2023/540) |
+| 2023 | **Toward Convex Manifolds: A Geometric Perspective for Deep Graph Clustering of Single-cell RNA-seq Data** | IJCAI | [link](https://www.ijcai.org/proceedings/2023/540) |
 | 2023 | **[scGPCL] scGPCL: Deep single-cell RNA-seq data clustering with graph prototypical contrastive learning** | BIB | [link](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btad342/7180270) |
-| 2023 | **[CPSmerge] CPSmerge: Multi-view clustering by CPS-merge analysis with application to multimodal single-cell data** | CB | [link](https://dx.plos.org/10.1371/journal.pcbi.1011044) |
+| 2023 | **[CPSmerge] CPSmerge: Multi-view clustering by CPS-merge analysis with application to multimodal single-cell data** | PCB | [link](https://dx.plos.org/10.1371/journal.pcbi.1011044) |
 | 2022 | **[scGAC] scGAC: a graph attentional architecture for clustering single-cell RNA-seq data**  | BIO | [link](https://academic.oup.com/bioinformatics/article/38/8/2187/6530275?login=false) | [link](https://github.com/Joye9285/scGAC) | 
 | 2022 | **[scGDC] scGDC:Learning deep features and topological structure of cells for clustering of scRNA-sequencing data** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbac068/6549863) |
-| 2022 | **[DGCyTOF] DGCyTOF: Deep learning with graphic cluster visualization to predict cell types of single cell mass cytometry data** | CB | [link](https://dx.plos.org/10.1371/journal.pcbi.1008885) |
+| 2022 | **[DGCyTOF] DGCyTOF: Deep learning with graphic cluster visualization to predict cell types of single cell mass cytometry data** | PCB | [link](https://dx.plos.org/10.1371/journal.pcbi.1008885) |
 | 2020 | **[FastPG] FastPG: Fast clustering of millions of single cells** | - |
 | 2019 | **[PAGA] PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells** | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1663-x) |
 
@@ -82,5 +82,5 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | 2023 | **[scBGEDA] scBGEDA: deep single-cell clustering analysis via a dual denoising autoencoder with bipartite graph ensemble clustering** | BIB | [link](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btad075/7025496) |
 | 2022 | **[scDSC] scDSC: Deep structural clustering for single-cell RNA-seq data jointly through autoencoder and graph neural network** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbac018/6529282) |
 | 2022 | **[scMDC] Clustering of single-cell multi-omics data with a multimodal deep learning method**  | NC | [link](https://www.nature.com/articles/s41467-022-35031-9) | [link](https://github.com/xianglin226/scMDC) | 
-| 2021 | **Mixture-of-Experts Variational Autoencoder for clustering and generating from similarity-based representations on single cell data** | CB | [link](https://dx.plos.org/10.1371/journal.pcbi.1009086) |
-| 2021 | **[scDCC] scDCC:Model-based deep embedding for constrained clustering analysis of single cell RNA-seq data**  | N | [link](https://www.nature.com/articles/s41467-021-22008-3) | 
+| 2021 | **Mixture-of-Experts Variational Autoencoder for clustering and generating from similarity-based representations on single cell data** | PCB | [link](https://dx.plos.org/10.1371/journal.pcbi.1009086) |
+| 2021 | **[scDCC] scDCC:Model-based deep embedding for constrained clustering analysis of single cell RNA-seq data**  | NC | [link](https://www.nature.com/articles/s41467-021-22008-3) | 
