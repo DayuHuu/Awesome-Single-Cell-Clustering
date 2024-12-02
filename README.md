@@ -19,9 +19,9 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| 2024 | **[scDFN] scDFN:enhancing single-cell RNA-seq clustering with deep fusion networks** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbae486/7811489)| [link](|https://github.com/11051911/scDFN.) |
-| 2024 | **Dimension reduction, cell clustering, and cell–cell communication inference for single-cell transcriptomics with DcjComm** | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03385-6)| [link]((https://github.com/Ginnay/DcjComm) |
-| 2024 | **[G3DC] G3DC:A Gene-Graph-Guided Selective Deep Clustering Method for Single Cell RNA-seq Data** | BDMA | [link](https://ieeexplore.ieee.org/document/10654682/)| [link](https://github. com/Ketherine0/G3DC.) |
+| 2024 | **[scDFN] scDFN:enhancing single-cell RNA-seq clustering with deep fusion networks** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbae486/7811489)| [link](https://github.com/11051911/scDFN.) |
+| 2024 | **Dimension reduction, cell clustering, and cell–cell communication inference for single-cell transcriptomics with DcjComm** | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03385-6)| [link](https://github.com/Ginnay/DcjComm) |
+| 2024 | **[G3DC] G3DC:A Gene-Graph-Guided Selective Deep Clustering Method for Single Cell RNA-seq Data** | BDMA | [link](https://ieeexplore.ieee.org/document/10654682/) | [link](https://github. com/Ketherine0/G3DC) |
 | 2024 | **[scASDC] scASDC:Attention Enhanced Structural Deep Clustering for Single-cell RNA-seq Data** | Arxiv | [link](http://arxiv.org/abs/2408.05258)| [link](https://github.com/wenwenmin/scASDC) |
 | 2024 | **[DP-DCAN] DP-DCAN:Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering** | ICIC | [link](http://arxiv.org/abs/2311.03410)| - |
 | 2024 | **[scMNMF] scMNMF:a novel method for single-cell multi-omics clustering based on matrix factorization** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbae228/7675151)| [link](https://github.com/yushanqiu/scMNMF) |
