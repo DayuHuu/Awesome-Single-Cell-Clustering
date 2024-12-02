@@ -63,7 +63,7 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | 2023 | **Toward Convex Manifolds: A Geometric Perspective for Deep Graph Clustering of Single-cell RNA-seq Data** | IJCAI | [link](https://www.ijcai.org/proceedings/2023/540) |
 | 2023 | **[scGPCL] scGPCL: Deep single-cell RNA-seq data clustering with graph prototypical contrastive learning** | BIB | [link](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btad342/7180270) |
 | 2023 | **[CPSmerge] CPSmerge: Multi-view clustering by CPS-merge analysis with application to multimodal single-cell data** | PCB | [link](https://dx.plos.org/10.1371/journal.pcbi.1011044) |
-| 2022 | **[scGAC] scGAC: a graph attentional architecture for clustering single-cell RNA-seq data**  | BIO | [link](https://academic.oup.com/bioinformatics/article/38/8/2187/6530275?login=false) | [link](https://github.com/Joye9285/scGAC) | 
+| 2022 | **[scGAC] scGAC: a graph attentional architecture for clustering single-cell RNA-seq data**  | Bioinformatics | [link](https://academic.oup.com/bioinformatics/article/38/8/2187/6530275?login=false) | [link](https://github.com/Joye9285/scGAC) | 
 | 2022 | **[scGDC] scGDC:Learning deep features and topological structure of cells for clustering of scRNA-sequencing data** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbac068/6549863) |
 | 2022 | **[DGCyTOF] DGCyTOF: Deep learning with graphic cluster visualization to predict cell types of single cell mass cytometry data** | PCB | [link](https://dx.plos.org/10.1371/journal.pcbi.1008885) |
 | 2020 | **[FastPG] FastPG: Fast clustering of millions of single cells** | - |
