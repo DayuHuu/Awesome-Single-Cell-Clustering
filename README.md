@@ -21,23 +21,23 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024 | **[scDFN] scDFN:enhancing single-cell RNA-seq clustering with deep fusion networks** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbae486/7811489)| - |
 | 2024 | **Dimension reduction, cell clustering, and cell–cell communication inference for single-cell transcriptomics with DcjComm** | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03385-6)| - |
-| 2024 | **[G3DC] G3DC:A Gene-Graph-Guided Selective Deep Clustering Method for Single Cell RNA-seq Data** | BDMAA | [link](https://ieeexplore.ieee.org/document/10654682/)| - |
-| 2024 | **[scASDC] scASDC:Attention Enhanced Structural Deep Clustering for Single-cell RNA-seq Data** | IEEE | [link](http://arxiv.org/abs/2408.05258)| - |
-| 2024 | **[DP-DCAN] DP-DCAN:Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering** | - | [link](http://arxiv.org/abs/2311.03410)| - |
+| 2024 | **[G3DC] G3DC:A Gene-Graph-Guided Selective Deep Clustering Method for Single Cell RNA-seq Data** | BDMA | [link](https://ieeexplore.ieee.org/document/10654682/)| - |
+| 2024 | **[scASDC] scASDC:Attention Enhanced Structural Deep Clustering for Single-cell RNA-seq Data** | Arxiv | [link](http://arxiv.org/abs/2408.05258)| - |
+| 2024 | **[DP-DCAN] DP-DCAN:Differentially Private Deep Contrastive Autoencoder Network for Single-cell Clustering** | ICIC | [link](http://arxiv.org/abs/2311.03410)| - |
 | 2024 | **[scMNMF] scMNMF:a novel method for single-cell multi-omics clustering based on matrix factorization** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbae228/7675151)| - |
 | 2023 | **A critical assessment of clustering algorithms to improve cell clustering and identification in single-cell transcriptome study** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbad497/7505072)| - |
-| 2023 | **Attention-based deep clustering method for scRNA-seq cell type identification** | CB | [link](https://dx.plos.org/10.1371/journal.pcbi.1011641)| - |
+| 2023 | **Attention-based deep clustering method for scRNA-seq cell type identification** | PCB | [link](https://dx.plos.org/10.1371/journal.pcbi.1011641)| - |
 | 2023 | **Self-supervised deep clustering of single-cell RNA-seq data to hierarchically detect rare cell populations** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbad335/7283019)| - |
 | 2023 | **[DISCERN] DISCERN:deep single-cell expression reconstruction for improved cell clustering and cell subtype and state detection**| GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-023-03049-x)| - |
 | 2023 | **Deep enhanced constraint clustering based on contrastive learning for scRNA-seq data** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbad222/7197084)| - |
 | 2023 | **[scDCCA] scDCCA:deep contrastive clustering for single-cell RNA-seq data based on auto-encoder network** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbac625/6984787)| - |
 | 2022 | **[ADClust] ADClust: A parameter-free deep embedded clustering method for single-cell RNA-seq data**  | BIB | [link](https://academic.oup.com/bib/article/23/5/bbac172/6582003?login=false) | [link](https://github.com/biomed-AI/ADClust) | 
-| 2022 | **[scDSSC] scDSSC:Deep Sparse Subspace Clustering for scRNA-seq Data** | CB | [link](https://dx.plos.org/10.1371/journal.pcbi.1010772)| - |
-| 2022 | **[NISC] NISC:Neural Network-Imputation for Single-Cell RNA Sequencing and Cell Type Clustering** | OR | [link](https://www.frontiersin.org/articles/10.3389/fgene.2022.847112/full)| - |
-| 2022 | **Deep clustering of small molecules at large-scale via variational autoencoder embedding and K-means**| BMC | [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04667-1)| - |
+| 2022 | **[scDSSC] scDSSC:Deep Sparse Subspace Clustering for scRNA-seq Data** | PCB | [link](https://dx.plos.org/10.1371/journal.pcbi.1010772)| - |
+| 2022 | **[NISC] NISC:Neural Network-Imputation for Single-Cell RNA Sequencing and Cell Type Clustering** | FRONT GENET | [link](https://www.frontiersin.org/articles/10.3389/fgene.2022.847112/full)| - |
+| 2022 | **Deep clustering of small molecules at large-scale via variational autoencoder embedding and K-means**| BMC Bioinformatics | [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04667-1)| - |
 | 2022 | **comparison of deep learning-based pre-processing  and clustering approaches for single-cell RNA  sequencing data** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbab345/6361043) | - |
 | 2022 | **[ScCAEs] ScCAEs:deep clustering of single-cell RNA-seq via convolutional autoencoder embedding and soft K-means** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbab321/6362111)| - |
-| 2021 | **Contrastive self-supervised clustering of scRNA-seq data** | BMC | [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04210-8)| - |
+| 2021 | **Contrastive self-supervised clustering of scRNA-seq data** | BMC Bioinformatics | [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04210-8)| - |
 | 2021 | **Clustering single cell CITE-seq data with a canonical correlation based deep learning method** | - | [link](http://biorxiv.org/lookup/doi/10.1101/2021.09.07.459236)| - |
 | 2021 | **Deep learning-based clustering approaches for bioinformatics** | BIB | [link](https://academic.oup.com/bib/article/22/1/393/5721075)| - |
 | 2020 | **[scAIDE] scAIDE:clustering of large-scale single-cell RNA-seq data reveals putative and rare cell types** | NAR | [link](https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqaa082/5920393)| - |
