@@ -66,7 +66,7 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | 2022 | **[scGAC] scGAC: a graph attentional architecture for clustering single-cell RNA-seq data**  | Bioinformatics | [link](https://academic.oup.com/bioinformatics/article/38/8/2187/6530275?login=false) | [link](https://github.com/Joye9285/scGAC) | 
 | 2022 | **[scGDC] scGDC:Learning deep features and topological structure of cells for clustering of scRNA-sequencing data** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbac068/6549863) |
 | 2022 | **[DGCyTOF] DGCyTOF: Deep learning with graphic cluster visualization to predict cell types of single cell mass cytometry data** | PCB | [link](https://dx.plos.org/10.1371/journal.pcbi.1008885) |
-| 2020 | **[FastPG] FastPG: Fast clustering of millions of single cells** | - |
+| 2020 | **[FastPG] FastPG: Fast clustering of millions of single cells** |BioRxiv | [link](https://www.biorxiv.org/content/10.1101/2020.06.19.159749v2.abstract) | [link](https://github.com/sararselitsky/FastPG) | 
 | 2019 | **[PAGA] PAGA: graph abstraction reconciles clustering with trajectory inference through a topology preserving map of single cells** | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1663-x) |
 
 
