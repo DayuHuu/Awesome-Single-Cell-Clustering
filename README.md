@@ -33,19 +33,19 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | 2023 | **[scDCCA] scDCCA:deep contrastive clustering for single-cell RNA-seq data based on auto-encoder network** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbac625/6984787)| - |
 | 2022 | **[ADClust] ADClust: A parameter-free deep embedded clustering method for single-cell RNA-seq data**  | BIB | [link](https://academic.oup.com/bib/article/23/5/bbac172/6582003?login=false) | [link](https://github.com/biomed-AI/ADClust) | 
 | 2022 | **[scDSSC] scDSSC:Deep Sparse Subspace Clustering for scRNA-seq Data** | PCB | [link](https://dx.plos.org/10.1371/journal.pcbi.1010772)| - |
-| 2022 | **[NISC] NISC:Neural Network-Imputation for Single-Cell RNA Sequencing and Cell Type Clustering** | FRONT GENET | [link](https://www.frontiersin.org/articles/10.3389/fgene.2022.847112/full)| - |
+| 2022 | **[NISC] NISC:Neural Network-Imputation for Single-Cell RNA Sequencing and Cell Type Clustering** | Frontiers In Genetics | [link](https://www.frontiersin.org/articles/10.3389/fgene.2022.847112/full)| - |
 | 2022 | **Deep clustering of small molecules at large-scale via variational autoencoder embedding and K-means**| BMC Bioinformatics | [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-022-04667-1)| - |
 | 2022 | **comparison of deep learning-based pre-processing  and clustering approaches for single-cell RNA  sequencing data** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbab345/6361043) | - |
 | 2022 | **[ScCAEs] ScCAEs:deep clustering of single-cell RNA-seq via convolutional autoencoder embedding and soft K-means** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbab321/6362111)| - |
 | 2021 | **Contrastive self-supervised clustering of scRNA-seq data** | BMC Bioinformatics | [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-021-04210-8)| - |
-| 2021 | **Clustering single cell CITE-seq data with a canonical correlation based deep learning method** | - | [link](http://biorxiv.org/lookup/doi/10.1101/2021.09.07.459236)| - |
+| 2021 | **Clustering single cell CITE-seq data with a canonical correlation based deep learning method** | Biorxiv  | [link](http://biorxiv.org/lookup/doi/10.1101/2021.09.07.459236)| - |
 | 2021 | **Deep learning-based clustering approaches for bioinformatics** | BIB | [link](https://academic.oup.com/bib/article/22/1/393/5721075)| - |
 | 2020 | **[scAIDE] scAIDE:clustering of large-scale single-cell RNA-seq data reveals putative and rare cell types** | NAR | [link](https://academic.oup.com/nargab/article/doi/10.1093/nargab/lqaa082/5920393)| - |
 | 2020 | **[scVAE] scVAE:variational auto-encoders for single-cell gene expression data** | BIB | [link](https://academic.oup.com/bioinformatics/article/36/16/4415/5838187)| - |
 | 2020 | **Robust unsupervised dimensionality reduction based on feature clustering for single-cell imaging data** | ASCJ | [link](https://linkinghub.elsevier.com/retrieve/pii/S1568494620303616) | - |
-| 2020 | **Deep learning enables accurate clustering with batch effect removal in single-cell RNA-seq analysis** | N | [link](https://www.nature.com/articles/s41467-020-15851-3)| - |
-| 2020 | **Single-Cell Transcriptome Data Clustering via Multinomial Modeling and Adaptive Fuzzy K-Means Algorithm** | OR | [link](https://www.frontiersin.org/article/10.3389/fgene.2020.00295/full)| - |
-| 2020 | **Dimension Reduction and Clustering Models for Single-Cell RNA Sequencing Data: A Comparative Study** | MS | [link](https://www.mdpi.com/1422-0067/21/6/2181) | - |
+| 2020 | **Deep learning enables accurate clustering with batch effect removal in single-cell RNA-seq analysis** | NC | [link](https://www.nature.com/articles/s41467-020-15851-3)| - |
+| 2020 | **Single-Cell Transcriptome Data Clustering via Multinomial Modeling and Adaptive Fuzzy K-Means Algorithm** |  Frontiers In Genetics | [link](https://www.frontiersin.org/article/10.3389/fgene.2020.00295/full)| - |
+| 2020 | **Dimension Reduction and Clustering Models for Single-Cell RNA Sequencing Data: A Comparative Study** | IJMS | [link](https://www.mdpi.com/1422-0067/21/6/2181) | - |
 | 2020 | **Pathway-based deep clustering for molecular subtyping of cancer**| HHS | [link](https://linkinghub.elsevier.com/retrieve/pii/S1046202319300489)| - |
 | 2020 | **[DSCD] DSCD:A Novel Deep Subspace Clustering Denoise Network for Single-Cell Clustering** | IEEE | [link](https://ieeexplore.ieee.org/document/9115662/)| - |
 | 2019 | **Impact of similarity metrics on single-cell RNA-seq data clustering** | BIB | [link](https://academic.oup.com/bib/article/20/6/2316/5077112)| - |
