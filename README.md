@@ -46,12 +46,12 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | 2020 | **Deep learning enables accurate clustering with batch effect removal in single-cell RNA-seq analysis** | NC | [link](https://www.nature.com/articles/s41467-020-15851-3)| - |
 | 2020 | **Single-Cell Transcriptome Data Clustering via Multinomial Modeling and Adaptive Fuzzy K-Means Algorithm** |  Frontiers In Genetics | [link](https://www.frontiersin.org/article/10.3389/fgene.2020.00295/full)| - |
 | 2020 | **Dimension Reduction and Clustering Models for Single-Cell RNA Sequencing Data: A Comparative Study** | IJMS | [link](https://www.mdpi.com/1422-0067/21/6/2181) | - |
-| 2020 | **Pathway-based deep clustering for molecular subtyping of cancer**| HHS | [link](https://linkinghub.elsevier.com/retrieve/pii/S1046202319300489)| - |
-| 2020 | **[DSCD] DSCD:A Novel Deep Subspace Clustering Denoise Network for Single-Cell Clustering** | IEEE | [link](https://ieeexplore.ieee.org/document/9115662/)| - |
+| 2020 | **Pathway-based deep clustering for molecular subtyping of cancer**| Methods | [link](https://linkinghub.elsevier.com/retrieve/pii/S1046202319300489)| - |
+| 2020 | **[DSCD] DSCD:A Novel Deep Subspace Clustering Denoise Network for Single-Cell Clustering** | IEEE Access | [link](https://ieeexplore.ieee.org/document/9115662/)| - |
 | 2019 | **Impact of similarity metrics on single-cell RNA-seq data clustering** | BIB | [link](https://academic.oup.com/bib/article/20/6/2316/5077112)| - |
-| 2019 | **Combining gene ontology with deep neural networks to enhance the clustering of single cell RNA-Seq data** | BMC | [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2769-6)| - |
-| 2018 | **Clustering single cells: a review of approaches on high-and low-depth single-cell RNA-seq data**| BIFG | [link](https://academic.oup.com/bfg/article/17/4/240/4728639) | - |
-| 2016 | **Single-Channel Multi-Speaker Separation using Deep Clustering** | - | [link](http://arxiv.org/abs/1607.02173)| - |
+| 2019 | **Combining gene ontology with deep neural networks to enhance the clustering of single cell RNA-Seq data** | BMC Bioinformatics | [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2769-6)| - |
+| 2018 | **Clustering single cells: a review of approaches on high-and low-depth single-cell RNA-seq data**| BFG | [link](https://academic.oup.com/bfg/article/17/4/240/4728639) | - |
+| 2016 | **Single-Channel Multi-Speaker Separation using Deep Clustering** |  Arxiv | [link](http://arxiv.org/abs/1607.02173)| - |
 
 
 ### Topological Single-Cell Deep Clustering
