@@ -67,21 +67,21 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | 2022 | **[scGAC] scGAC: a graph attentional architecture for clustering single-cell RNA-seq data**  | Bioinformatics | [link](https://academic.oup.com/bioinformatics/article/38/8/2187/6530275?login=false) | [link](https://github.com/Joye9285/scGAC) | 
 | 2022 | **[scGDC] scGDC:Learning deep features and topological structure of cells for clustering of scRNA-sequencing data** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbac068/6549863) | [link](https://github.com/xkmaxidian/scGDC) |
 | 2022 | **[DGCyTOF] DGCyTOF: Deep learning with graphic cluster visualization to predict cell types of single cell mass cytometry data** | PCB | [link](https://dx.plos.org/10.1371/journal.pcbi.1008885) | [link](https://github.com/lijcheng12/DGCyTOF/.) |
-| 2022 | **Deep Clustering: A Comprehensive Survey** | Arxiv | [link](http://arxiv.org/abs/2210.04142) |
+| 2022 | **Deep Clustering: A Comprehensive Survey** | Arxiv | [link](http://arxiv.org/abs/2210.04142) | - |
 | 2022 | **Efficient One-Pass Multi-View Subspace Clustering with Consensus Anchors** | AAAI  | [link](https://ojs.aaai.org/index.php/AAAI/article/view/20723) | [link](https://github.com/Tracesource/EOMSC-CA.) |
 | 2022 | **Graph Self-Supervised Learning: A Survey** | Arxiv | [link](http://arxiv.org/abs/2103.00111) | [link](https://github.com/Shen-Lab/SS-GCNs) |
-| 2021 | **Graph Debiased Contrastive Learning with Joint Representation Clustering** | IJCAI | [link](https://www.ijcai.org/proceedings/2021/473) |
-| 2021 | **Unified Tensor Framework for Incomplete Multi-view Clustering and Missing-view Inferring** | AAAI | [link](https://ojs.aaai.org/index.php/AAAI/article/view/17231) |
+| 2021 | **Graph Debiased Contrastive Learning with Joint Representation Clustering** | IJCAI | [link](https://www.ijcai.org/proceedings/2021/473) | - |
+| 2021 | **Unified Tensor Framework for Incomplete Multi-view Clustering and Missing-view Inferring** | AAAI | [link](https://ojs.aaai.org/index.php/AAAI/article/view/17231) | - |
 | 2020 | **Adaptive Graph Encoder for Attributed Graph Embedding** | Arxiv | [link](http://arxiv.org/abs/2007.01594) | [link](https://github.com/thunlp/AGE.) |
 | 2020 | **[Karate Club] Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs** | Arxiv | [link](http://arxiv.org/abs/2003.04819) | [link](https://github.com/benedekrozemberczki/karateclub) |
 | 2020 | **[FastPG] FastPG: Fast clustering of millions of single cells** |BioRxiv | [link](https://www.biorxiv.org/content/10.1101/2020.06.19.159749v2.abstract) | [link](https://github.com/sararselitsky/FastPG) | [link](https://github.com/JinmiaoChenLab/cytofkit/blob/master/R/Rphenograph.R) |
-| 2020 | **Multi-Class Imbalanced Graph Convolutional Network Learning** | IJCAI | [link](https://www.ijcai.org/proceedings/2020/398) |
-| 2020 | **Multi-View Attribute Graph Convolution Networks for Clustering** | IJCAI | [link](https://www.ijcai.org/proceedings/2020/411) |
+| 2020 | **Multi-Class Imbalanced Graph Convolutional Network Learning** | IJCAI | [link](https://www.ijcai.org/proceedings/2020/398) | - |
+| 2020 | **Multi-View Attribute Graph Convolution Networks for Clustering** | IJCAI | [link](https://www.ijcai.org/proceedings/2020/411) | - |
 | 2020 | **[CGD] CGD: Multi-View Clustering via Cross-View Graph Diffusion** | AAAI | [link](https://ojs.aaai.org/index.php/AAAI/article/view/6052) | [link](https://github.com/ChangTang/CGD) |
 | 2020 | **[ASAP] ASAP: Adaptive Structure Aware Pooling for Learning Hierarchical Graph Representations** | AAAI | [link](https://ojs.aaai.org/index.php/AAAI/article/view/5997) | [link](https://github.com/malllabiisc/ASAP) |
-| 2020 | **Tensor-SVD Based Graph Learning for Multi-View Subspace Clustering** | AAAI  | [link](https://ojs.aaai.org/index.php/AAAI/article/view/5807) |
+| 2020 | **Tensor-SVD Based Graph Learning for Multi-View Subspace Clustering** | AAAI  | [link](https://ojs.aaai.org/index.php/AAAI/article/view/5807) | - |
 | 2020 | **[Graph-Bert] Graph-Bert: Only Attention is Needed for Learning Graph Representations** | ArXiv | [link](http://arxiv.org/abs/2001.05140) | [link](https://github.com/jwzhanggy/Graph-Bert) |
-| 2020 | **Clustering of Cancer Attributed Networks via Integration of Graph Embedding and Matrix Factorization** | IEEE Access  | [link](https://ieeexplore.ieee.org/document/9244081/) |
+| 2020 | **Clustering of Cancer Attributed Networks via Integration of Graph Embedding and Matrix Factorization** | IEEE Access  | [link](https://ieeexplore.ieee.org/document/9244081/) | - |
 | 2019 | **[PAGA] PAGA: graph abstraction reconciles clustering with trjectory inference through a topology preserving map of single cells** | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1663-x) | [link](https://github.com/theislab/paga) |
 
 
