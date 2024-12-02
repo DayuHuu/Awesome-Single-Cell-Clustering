@@ -59,6 +59,7 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | Year | Title                                                        |  Venue  |                            Paper                             |                             Code                             |
 | ---- | ------------------------------------------------------------ | :-----: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 2024 | **[scDFN] scDFN: enhancing single-cell RNA-seq clustering with deep fusion networks** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbae486/7811489) |
+| 2024 | **[scGeom] scGeom: Topological and geometric analysis of cell states in single-cell transcriptomic data** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbae176/7648264) |
 | 2023 | **Toward Convex Manifolds: A Geometric Perspective for Deep Graph Clustering of Single-cell RNA-seq Data** | IJVAI | [link](https://www.ijcai.org/proceedings/2023/540) |
 | 2023 | **[scGPCL] scGPCL: Deep single-cell RNA-seq data clustering with graph prototypical contrastive learning** | BIB | [link](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btad342/7180270) |
 | 2023 | **[CPSmerge] CPSmerge: Multi-view clustering by CPS-merge analysis with application to multimodal single-cell data** | CB | [link](https://dx.plos.org/10.1371/journal.pcbi.1011044) |
