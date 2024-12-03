@@ -81,6 +81,7 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | 2022 | **[scGAC] scGAC: a graph attentional architecture for clustering single-cell RNA-seq data**  | Bioinformatics | [link](https://academic.oup.com/bioinformatics/article/38/8/2187/6530275?login=false) | [link](https://github.com/Joye9285/scGAC) | 
 | 2022 | **[scGDC] scGDC:Learning deep features and topological structure of cells for clustering of scRNA-sequencing data** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbac068/6549863) | [link](https://github.com/xkmaxidian/scGDC) |
 | 2022 | **[DGCyTOF] DGCyTOF: Deep learning with graphic cluster visualization to predict cell types of single cell mass cytometry data** | PCB | [link](https://dx.plos.org/10.1371/journal.pcbi.1008885) | [link](https://github.com/lijcheng12/DGCyTOF/.) |
+| 2022 | **A novel graph-based k-partitioning approach improves the detection of gene-gene correlations by single-cell RNA sequencing** | BMC Genomics | [link](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-021-08235-4) | [link](https://github.com/CBIIT-CGBB/scCorr.) |
 | 2021 | **Graph Debiased Contrastive Learning with Joint Representation Clustering** | IJCAI | [link](https://www.ijcai.org/proceedings/2021/473) | - |
 | 2020 | **[Karate Club] Karate Club: An API Oriented Open-source Python Framework for Unsupervised Learning on Graphs** | Arxiv | [link](http://arxiv.org/abs/2003.04819) | [link](https://github.com/benedekrozemberczki/karateclub) |
 | 2020 | **[FastPG] FastPG: Fast clustering of millions of single cells** |BioRxiv | [link](https://www.biorxiv.org/content/10.1101/2020.06.19.159749v2.abstract) | [link](https://github.com/sararselitsky/FastPG) | [link](https://github.com/JinmiaoChenLab/cytofkit/blob/master/R/Rphenograph.R) |
@@ -100,5 +101,12 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | 2023 | **[scBGEDA] scBGEDA: deep single-cell clustering analysis via a dual denoising autoencoder with bipartite graph ensemble clustering** | BIB | [link](https://academic.oup.com/bioinformatics/article/doi/10.1093/bioinformatics/btad075/7025496) | [link](https://github.com/wangyh082/scBGEDA.) |
 | 2022 | **[scDSC] scDSC: Deep structural clustering for single-cell RNA-seq data jointly through autoencoder and graph neural network** | BIB | [link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbac018/6529282) | [link](https://github.com/DHUDBlab/scDSC.) |
 | 2022 | **[scMDC] Clustering of single-cell multi-omics data with a multimodal deep learning method**  | NC | [link](https://www.nature.com/articles/s41467-022-35031-9) | [link](https://github.com/xianglin226/scMDC) | 
+| 2022 | **A deep generative model for multi-view profiling of single-cell RNA-seq and ATAC-seq data**  | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02595-6) | [link](https://github.com/bm2-lab/scMVP) | 
+| 2022 | **A deep generative model for multi-view profiling of single-cell RNA-seq and ATAC-seq data**  | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02595-6) | [link](https://github.com/bm2-lab/scMVP) | 
+
+
+
+
+
 | 2021 | **Mixture-of-Experts Variational Autoencoder for clustering and generating from similarity-based representations on single cell data** | PCB | [link](https://dx.plos.org/10.1371/journal.pcbi.1009086) | [link](https://github.com/slim1017/VaDE) |
 | 2021 | **[scDCC] scDCC:Model-based deep embedding for constrained clustering analysis of single cell RNA-seq data**  | NC | [link](https://www.nature.com/articles/s41467-021-22008-3) | [link](https://github.com/VCCRI/CIDR) |
