@@ -103,10 +103,25 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | 2022 | **[scMDC] Clustering of single-cell multi-omics data with a multimodal deep learning method**  | NC | [link](https://www.nature.com/articles/s41467-022-35031-9) | [link](https://github.com/xianglin226/scMDC) | 
 | 2022 | **A deep generative model for multi-view profiling of single-cell RNA-seq and ATAC-seq data**  | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02595-6) | [link](https://github.com/bm2-lab/scMVP) | 
 | 2022 | **A deep generative model for multi-view profiling of single-cell RNA-seq and ATAC-seq data**  | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02595-6) | [link](https://github.com/bm2-lab/scMVP) | 
-
-
-
-
-
 | 2021 | **Mixture-of-Experts Variational Autoencoder for clustering and generating from similarity-based representations on single cell data** | PCB | [link](https://dx.plos.org/10.1371/journal.pcbi.1009086) | [link](https://github.com/slim1017/VaDE) |
 | 2021 | **[scDCC] scDCC:Model-based deep embedding for constrained clustering analysis of single cell RNA-seq data**  | NC | [link](https://www.nature.com/articles/s41467-021-22008-3) | [link](https://github.com/VCCRI/CIDR) |
+| 2020 | **Functional module detection through integration of single-cell RNA sequencing data with protein–protein interaction networks** | BMC Genomics | [link](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-020-07144-2) | [link](https://github.com/floklimm/scPPIN.) |
+| 2020 | **Single-cell RNA-seq clustering: datasets, models, and algorithms** | RNA Biology | [link](https://www.tandfonline.com/doi/full/10.1080/15476286.2020.1728961) | [link](https://github.com/DeplanckeLab/ASAP) |
+| 2020 | **Single cell transcriptomics identifies focal segmental glomerulosclerosis remission endothelial biomarker** | JCI Insight | [link](https://insight.jci.org/articles/view/133267) | - |
+| 2020 | **Single-cell transcriptome analysis of tumor and stromal compartments of pancreatic ductal adenocarcinoma primary tumors and metastatic lesions** | GM | [link](https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-020-00776-9) | [link](https://github.com/weilin-genomics/SuperCT) |
+| 2020 | **Interactive analysis of single-cell epigenomic landscapes with ChromSCape** | Nature | [link](https://www.nature.com/articles/s41467-020-19542-x) | [link](https://vallotlab.github.io/ChromSCape/ChromSCape_guide.htm) |
+| 2020 | **Single-cell mass cytometry reveals complex myeloid cell composition in active lesions of progressive multiple sclerosis** | ANC | [link](https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-020-01010-8) | - |
+| 2020 | **Decontamination of ambient RNA in single-cell RNA-seq with DecontX** | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1950-6) | [link](https://github.com/campbio/celda) |
+| 2020 | **Single-cell RNA-seq identifies unique transcriptional landscapes of human nucleus pulposus and annulus fibrosus cells** | Nature | [link](https://www.nature.com/articles/s41598-020-72261-7) | - |
+| 2020 | **Inferring spatial and signaling relationships between cells from single cell transcriptomic data** | Nature | [link](https://www.nature.com/articles/s41467-020-15968-5) | [link](https://github.com/CaiGroup/seqFISH-PLUS) |
+
+
+
+
+
+
+
+
+
+
+
