@@ -114,6 +114,21 @@ ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering w
 | 2020 | **Decontamination of ambient RNA in single-cell RNA-seq with DecontX** | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-1950-6) | [link](https://github.com/campbio/celda) |
 | 2020 | **Single-cell RNA-seq identifies unique transcriptional landscapes of human nucleus pulposus and annulus fibrosus cells** | Nature | [link](https://www.nature.com/articles/s41598-020-72261-7) | - |
 | 2020 | **Inferring spatial and signaling relationships between cells from single cell transcriptomic data** | Nature | [link](https://www.nature.com/articles/s41467-020-15968-5) | [link](https://github.com/CaiGroup/seqFISH-PLUS) |
+| 2019 | **Deconvolution of autoencoders to learn biological regulatory modules from single cell mRNA sequencing data** | BMC Bioinformatics | [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2952-9) | [link](https://github.com/cphgeno/expression_saliency.) |
+| 2019 | **A single-cell transcriptomic atlas of the developing chicken limb** | BMC Genomics | [link](https://bmcgenomics.biomedcentral.com/articles/10.1186/s12864-019-5802-2) | [link](https://github.com/broadinstitute/Drop-seq/releases) |
+| 2019 | **Capture at the single cell level of metabolic modules distinguishing aggressive and indolent glioblastoma cells** | ANC | [link](https://actaneurocomms.biomedcentral.com/articles/10.1186/s40478-019-0819-y) | - |
+| 2019 | **Single-Cell Transcriptomics Reveals Spatial and Temporal Turnover of Keratinocyte Differentiation Regulators** | Frontiers In Genetics | [link](https://www.frontiersin.org/article/10.3389/fgene.2019.00775/full) | [link](https://github.com/jssong-lab/kcyteReg.) |
+| 2019 | **MTGO-SC, A Tool to Explore Gene Modules in Single-Cell RNA Sequencing Data** | Frontiers In Genetics | [link](https://www.frontiersin.org/article/10.3389/fgene.2019.00953/full) | [link](https://github.com/ne1s0n/MTGOsc.) |
+| 2019 | **Accurate denoising of single-cell RNA-Seq data using unbiased principal component analysis** | Biorxiv | [link](http://biorxiv.org/lookup/doi/10.1101/655365) | [link](https://github.com/yanailab/enhance.) |
+| 2019 | **Polled Digital Cell Sorter (p-DCS): Automatic identification of hematological cell types from single cell RNA-sequencing clusters** | BMC Bioinformatics | [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-019-2951-x) | [link](https://github.com/sdomanskyi/DigitalCellSorter.) |
+| 2019 | **Single-cell transcriptomics unveils gene regulatory network plasticity** | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1713-4) | [link](https://github.com/massonix/tabula_muris_networks.) |
+| 2019 | **[MetaCell] MetaCell: analysis of single-cell RNA-seq data using K-nn graph partitions** | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1812-2) | [link](https://tanaylab.github.io/metacell/) |
+| 2019 | **Assessment of computational methods for the analysis of single-cell ATAC-seq data** | GB | [link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1854-5) | [link](https://github.com/pinellolab/scATAC-benchmarking) |
+| 2019 | **Single Cell and Single Nucleus RNA-Seq Reveal Cellular Heterogeneity and Homeostatic Regulatory Networks in Adult Mouse Stria Vascularis** | Frontiers In Genetics | [link](https://www.frontiersin.org/article/10.3389/fnmol.2019.00316/full) | - |
+
+
+
+
 
 
 
