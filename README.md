@@ -5,7 +5,7 @@
 [AKGR-url]: https://github.com/DayuHuu/Awesome-Single-Cell-Clustering
 
 # Awesome-Single-Cell-Clustering
-ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering works, including papers, codes and datasets :fire:. Any problems, please contact hzauhdy@gmail.com or w13840532920@163.com. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository.
+ASCC: Awesome Single Cell Clustering is a collection of single-cell clustering works, including papers, codes and datasets :fire:. Any problems, please contact hudy@bmie.neu.edu.cn or w13840532920@163.com. Any other interesting papers or codes are welcome. If you find this repository useful to your research or work, it is really appreciated to star this repository.
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
