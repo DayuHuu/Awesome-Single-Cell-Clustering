@@ -5,7 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/DayuHuu/Awesome-Single-Cell-Clustering?color=lightblue&label=fork)](https://github.com/DayuHuu/Awesome-Single-Cell-Clustering/network/members)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/DayuHuu/Awesome-Single-Cell-Clustering/graphs/commit-activity)
 
-**Awesome Single-Cell Clustering** is a curated repository dedicated to tracking the latest advancements in single-cell clustering methodologies. This collection encompasses state-of-the-art papers, source codes, and benchmark datasets, categorized by their underlying algorithmic strategies.
+**Awesome Single-Cell Clustering** is a curated repository dedicated to tracking the latest advancements in single-cell clustering methodologies. This collection encompasses state-of-the-art papers, source codes, and benchmark datasets, categorized by their underlying algorithmic strategies
 
 <div align="center">
     <img src="./flow.png" width="90%" alt="Workflow" />
