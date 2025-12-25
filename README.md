@@ -24,7 +24,7 @@
 
 ## Embedded Single-Cell Deep Clustering
 
-| Year | Title | Venue | Resources |
+| Year | Title | Venue | Resources  |
 | :---: | :--- | :---: | :---: |
 | 2024 | **Dimension reduction, cell clustering, and cell–cell communication inference for single-cell transcriptomics with DcjComm** | GB | [📄 Paper](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03385-6) • [💻 Code](https://github.com/Ginnay/DcjComm) |
 | 2024 | **[G3DC] G3DC: A Gene-Graph-Guided Selective Deep Clustering Method for Single Cell RNA-seq Data** | BDMA | [📄 Paper](https://ieeexplore.ieee.org/document/10654682/) • [💻 Code](https://github.com/Ketherine0/G3DC) |
